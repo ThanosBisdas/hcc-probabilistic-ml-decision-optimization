@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the MSc thesis below."
+title: "Probabilistic Machine Learning Models and Decision Optimization for Hepatocellular Carcinoma Diagnosis"
+type: software
+authors:
+  - family-names: "Bisdas"
+    given-names: "Athanasios D."
+preferred-citation:
+  type: thesis
+  title: "Probabilistic Machine Learning Models and Decision Optimization for Hepatocellular Carcinoma Diagnosis"
+  authors:
+    - family-names: "Bisdas"
+      given-names: "Athanasios D."
+  year: 2026

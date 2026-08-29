@@ -1,0 +1,18 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Regenerated figures / analysis outputs
+outputs/*
+!outputs/README.md
+
+# Local scratch files
+*.log
+*.tmp
